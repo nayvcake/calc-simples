@@ -1,0 +1,19 @@
+{
+  "name": "simplecalculator",
+  "version": "0.0.1",
+  "description": "A simple calculator with low memory usage and cpu and output return with simple data.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NavyCake/calc-simples.git"
+  },
+  "author": "NavyCake",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NavyCake/calc-simples/issues"
+  },
+  "homepage": "https://github.com/NavyCake/calc-simples#readme"
+}

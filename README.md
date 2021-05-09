@@ -28,6 +28,8 @@ console.log(calc.start('12*25'))
 - ErrorInfo - 2 (The library has detected that there is a letter.)
 - ErrorInfo - 3 (It seems that mathematics is totally wrong)
 - ErrorInfo - 4 (There was a problem with the library. Open a problem to solve the problem!)
+- ErrorInfo - 5 (There are probably things that go wrong with the string and it was not possible to identify numerics)
+- ErrorInfo - 6 (Value is invalid for this syntax)
 
 ## How does the library work?
 The results are released by an eval and to protect against bad entry for this there are 3 errors to save from a broken code or end up doing something you can't in the eval. If there is any type of leak try opening an issue to solve the problem as soon as possible!
